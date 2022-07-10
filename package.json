@@ -1,0 +1,23 @@
+{
+  "name": "templates",
+  "version": "1.0.0",
+  "description": "Templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Template"
+  ],
+  "author": "Switch#9999",
+  "license": "ISC",
+  "dependencies": {
+    "@zikeji/hypixel": "^3.1.1",
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "mcdata": "^1.0.9",
+    "minecraft-player": "^1.0.1",
+    "moment": "^2.29.2"
+  }
+}
